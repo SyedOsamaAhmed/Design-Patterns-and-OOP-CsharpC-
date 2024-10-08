@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using DesignPatternsAndOOP.src.Composition;
 
 namespace ConsoleApp1.src.OopPrinciples.Composition
 {

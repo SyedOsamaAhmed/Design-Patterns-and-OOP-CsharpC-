@@ -1,4 +1,4 @@
-namespace ConsoleApp1.Inheritance
+namespace DesignPatternsAndOOP.src.Inheritance
 {
   public class Bike : Vehicle
   {

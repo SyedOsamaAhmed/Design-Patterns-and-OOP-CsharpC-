@@ -1,4 +1,4 @@
-namespace ConsoleApp1.Coupling
+namespace DesignPatternsAndOOP.src.Coupling
 {
   public class EmailSender : INotificationService
   {

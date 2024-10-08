@@ -1,1 +1,6 @@
-# Design-Patterns-and-OOP-CsharpC-
+Covered following OOP conceps:
+
+- Abstraction
+- Encapsulation
+- Inheritance
+- Coupling

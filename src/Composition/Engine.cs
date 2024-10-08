@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.src.OopPrinciples.Composition
+namespace DesignPatternsAndOOP.src.Composition
 {
     public class Engine
     {

@@ -1,5 +1,5 @@
 // Base class representing a vehicle
-namespace ConsoleApp1.Inheritance
+namespace DesignPatternsAndOOP.src.Inheritance
 {
   public class Vehicle
   {

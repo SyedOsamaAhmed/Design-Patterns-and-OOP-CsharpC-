@@ -1,6 +1,4 @@
-
-
-namespace ConsoleApp1.Coupling
+namespace DesignPatternsAndOOP.src.Coupling
 {
     public interface INotificationService
     {
